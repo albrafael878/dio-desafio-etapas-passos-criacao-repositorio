@@ -1,0 +1,40 @@
+Os passos para a criação, atualização e sincronização de um repositório no GitHub.
+
+1. Repositório criado no site do Git
+
+a) Clicar em "new repository";
+b) Colocar o nome do repositório em "
+Repository name"; 
+c) Criar uma descrição do projeto: "Description (optional)";
+d) Escolher se o arquivo será "público" ou "privado"; 
+e) Clicar em "Create reposity"; 
+
+Pronto! O repositório está criado no site. 
+
+Então, vem a pergunta, como faço para baixar os arquivos para o computador?
+
+A solução também é bem simples, vamos a ela:
+
+a) Click em "Code"; 
+b) Escolha um dos tipo de arquivo na janela "clone", se o arquivo será baixado como "HTTPS" ou "SSH" ou "GitHub CLI"; 
+c) Copiando o endreço conforme o tipo de arquivo escolhido. Eu vou escolher HTTPS;
+
+Em seu computador, vá para a pasta que você quer que o arquivo fique e clique no botão direito do mouse. Após clique em "Git Bash Here"; 
+
+Com o console aberto, vamos aos comandos:
+a) git clone _____ (colocar o endereço copiado no site do git.
+
+Pronto! Tudo lindo e maravilhoso. kkk (brincadeira)
+
+Ai vem esta pergunta: "Como faço colocar o repositório a partir da minha máquina? (Autualização)"
+
+Pergunta linda! Vamos lá. 
+
+No terminal digitar (local que você escolheu para colocar no gitHub)
+
+Digite:
+a) git add . 
+b) git commit -m "Inclusão das anotações"; 
+
+
+  
